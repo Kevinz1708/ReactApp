@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card, .Blog {
+    text-align: -webkit-center;
+}
+
+Nav, Body, Footer {
+    font-family: "Sen", sans-serif;
+}
